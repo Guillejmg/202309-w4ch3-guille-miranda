@@ -1,5 +1,7 @@
+import { CharacterData } from "../model/types"
+
 export class CharactersRepo {
-  const Characters =
+  CharacterData =
 [
   {
     "isAlive": true,
